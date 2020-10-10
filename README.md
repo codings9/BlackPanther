@@ -1,4 +1,8 @@
 # BlackPanther
+****Please note some Antivirus(es) might flag this as malware****
+Cause i did not sign it, that is normal. I would not post this here with the intent
+to do that, but just be aware of this.., thank you!
+
 Black Panther 3 Year Strike Price Calculator
 >>Requirements, Windows 10.
 >>Or PowerShell for the BlackPanther.ps1 script
